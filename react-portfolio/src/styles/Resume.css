@@ -1,0 +1,29 @@
+section {
+    padding: 20px;
+    color: #333;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+a {
+    display: block;
+    color: #007BFF;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
